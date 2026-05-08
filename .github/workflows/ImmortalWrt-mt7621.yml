@@ -1,4 +1,4 @@
-name: ImmortalWrt-mt7621-24.10
+name: ImmortalWrt-mt7621
 
 on:
   workflow_dispatch:
